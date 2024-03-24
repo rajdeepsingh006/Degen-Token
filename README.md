@@ -1,41 +1,17 @@
 # Project Title
 
-Simple overview of use/purpose.
+DEGEN Token
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+In this we have created a DEGEN Token using ERC20 Token that can be deployed on the mainnet.
 
 ## Getting Started
 
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+The contract consists of the functions thatcan be used to mint,burn,transfer tokens.
+Then we have functions that can be used to purchase items , display items at any given address and total number of tokens at a given address.
 
 ## Authors
 
-Contributors names and contact info
+Contributed by: Rajdeep Singh Mulae
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
